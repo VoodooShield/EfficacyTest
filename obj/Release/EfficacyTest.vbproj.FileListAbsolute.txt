@@ -1,0 +1,21 @@
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\bin\Release\EfficacyTest.exe
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\bin\Release\EfficacyTest.pdb
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\bin\Release\EfficacyTest.xml
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Release\EfficacyTest.EfficacyTest.resources
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Release\EfficacyTest.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Release\EfficacyTest.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Release\EfficacyTest.exe
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Release\EfficacyTest.xml
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Release\EfficacyTest.pdb
+C:\Users\Dan\Desktop\EfficacyTest\bin\Release\EfficacyTest.exe
+C:\Users\Dan\Desktop\EfficacyTest\bin\Release\EfficacyTest.pdb
+C:\Users\Dan\Desktop\EfficacyTest\bin\Release\EfficacyTest.xml
+C:\Users\Dan\Desktop\EfficacyTest\obj\Release\EfficacyTest.EfficacyTest.resources
+C:\Users\Dan\Desktop\EfficacyTest\obj\Release\EfficacyTest.Resources.resources
+C:\Users\Dan\Desktop\EfficacyTest\obj\Release\EfficacyTest.vbproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\EfficacyTest\obj\Release\EfficacyTest.exe
+C:\Users\Dan\Desktop\EfficacyTest\obj\Release\EfficacyTest.xml
+C:\Users\Dan\Desktop\EfficacyTest\obj\Release\EfficacyTest.pdb
+C:\Users\Dan\Desktop\EfficacyTestSourceCode\obj\Release\EfficacyTest.exe
+C:\Users\Dan\Desktop\EfficacyTestSourceCode\obj\Release\EfficacyTest.xml
+C:\Users\Dan\Desktop\EfficacyTestSourceCode\obj\Release\EfficacyTest.pdb

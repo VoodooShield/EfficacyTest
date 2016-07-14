@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EfficacyTest
+</name>
+</assembly>
+<members>
+<member name="P:EfficacyTest.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EfficacyTest.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:EfficacyTest.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:EfficacyTest.EfficacyTest.ParentProcessUtilities.GetParentProcess">
+	<summary>
+ Gets the parent process of the current process.
+ </summary>
+	<returns>An instance of the Process class.</returns>
+</member><member name="M:EfficacyTest.EfficacyTest.ParentProcessUtilities.GetParentProcess(System.Int32)">
+	<summary>
+ Gets the parent process of specified process.
+ </summary>
+	<param name="id">The process id.</param>
+	<returns>An instance of the Process class.</returns>
+</member><member name="M:EfficacyTest.EfficacyTest.ParentProcessUtilities.GetParentProcess(System.IntPtr)">
+	<summary>
+ Gets the parent process of a specified process.
+ </summary>
+	<param name="handle">The process handle.</param>
+	<returns>An instance of the Process class or null if an error occurred.</returns>
+</member><member name="T:EfficacyTest.EfficacyTest.ParentProcessUtilities">
+	<summary>
+ A utility class to determine a process parent.
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\bin\Debug\EfficacyTest.exe
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\bin\Debug\EfficacyTest.pdb
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\bin\Debug\EfficacyTest.xml
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Debug\EfficacyTest.EfficacyTest.resources
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Debug\EfficacyTest.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Debug\EfficacyTest.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Debug\EfficacyTest.exe
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Debug\EfficacyTest.xml
+D:\Documents\Visual Studio 2013\Projects\EfficacyTest\obj\Debug\EfficacyTest.pdb
